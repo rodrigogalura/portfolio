@@ -4,7 +4,10 @@ Laravel Voyager:
     ☐ Install laravel voyager
 
 Laravel Telescope:
-    ☐ Install laravel telescope
+    ✔ Install laravel telescope @done (23-03-28 03:54)
+    ☐ Create pest test
+    ☐ Create dusk test
+    ☐ Must passed in pint test
 
 Laravel Horizon:
     ☐ Install laravel horizon
