@@ -6,18 +6,21 @@ Laravel Voyager:
 Laravel Telescope:
     ✔ Install laravel telescope @done (23-03-28 03:54)
 
-Laravel Horizon:
-    ☐ Install laravel horizon
-
 Laravel Dusk:
     ✔ Install laravel dusk @done (23-03-31 19:52)
 
 Laravel Socialite:
-    ☐ Install laravel socialite
+    ✔ Install laravel socialite @done (23-04-01 01:16)
+    ✔ Integrate it on google @done (23-04-01 01:16)
+    ☐ Create Feature Testing
+    ☐ Create Browser Testing
     ☐ Integrate it on facebook
 
 Laravel Scout:
     ☐ Install laravel scout
+
+Laravel Horizon:
+    ☐ Install laravel horizon
 
 Laravel Sanctum:
     ☐ Install laravel sanctum
