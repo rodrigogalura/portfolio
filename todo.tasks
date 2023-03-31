@@ -5,15 +5,12 @@ Laravel Voyager:
 
 Laravel Telescope:
     ✔ Install laravel telescope @done (23-03-28 03:54)
-    ☐ Create pest test
-    ☐ Create dusk test
-    ☐ Must passed in pint test
 
 Laravel Horizon:
     ☐ Install laravel horizon
 
 Laravel Dusk:
-    ☐ Install laravel dusk
+    ✔ Install laravel dusk @done (23-03-31 19:52)
 
 Laravel Socialite:
     ☐ Install laravel socialite
@@ -34,7 +31,9 @@ Laravel Envoy:
 Website:
     ☐ Finalize what website I desire. If is it paralax? 3D? etc.
 
-Tests:
+Run pint:
 ./vendor/bin/pint
+
+Tests:
 php artisan test
 php artisan dusk

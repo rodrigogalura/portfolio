@@ -213,5 +213,5 @@ return [
         // 'ExampleClass' => App\Example\ExampleClass::class,
     ])->toArray(),
 
-    'telescope_access_emails' => env("TELESCOPE_ACCESS_EMAILS")
+    'telescope_access_emails' => env('TELESCOPE_ACCESS_EMAILS'),
 ];
